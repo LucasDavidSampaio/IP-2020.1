@@ -5,3 +5,6 @@
 - [Introdução à Programação](https://estudante.ifpb.edu.br/media/cursos/37/disciplina/11_-_P1_-_Introducao_a_Programacao.pdf)
 
 [![Run on Repl.it](https://repl.it/badge/github/valeriacavalcanti/IP-2020.1)](https://repl.it/github/valeriacavalcanti/IP-2020.1)
+
+**Atenção!**
+Para executar um arquivo Python deste repositório é necessário editar o arquivo ".replit"!
